@@ -7,11 +7,10 @@
     "url": "git+https://github.com/MarcLandis/MMM-PIR-Sensor"
   },
   "keywords": [
-    "magic mirror",
-    "smart mirror",
-    "PIR-Sensor",
+    "MagicMirror",
+    "PIR sensor",
     "module",
-    "motion"
+    "motion detection"
   ],
   "author": "Paul-Vincent Roll, Dirk Rettschlag",
   "contributors": ["https://github.com/MarcLandis/MMM-PIR-Sensor/graphs/contributors"],
