@@ -1,6 +1,6 @@
 'use strict';
 
-/* Magic Mirror
+/* MagicMirror²
 * Module: MMM-PIR-Sensor
 *
 * By Paul-Vincent Roll http://paulvincentroll.com

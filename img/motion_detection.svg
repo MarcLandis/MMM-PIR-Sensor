@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 
+  This image symbolizes motion detection by a PIR sensor.
+
+  As this MagicMirror² module runs in the background, there is no screenshot. For a nicer
+  appearance in module lists, this image can be used instead of a screenshot.
+
+  Source:  https://openclipart.org/detail/306403/motion-detection
+  License: Public Domain
+-->
+<svg:svg
+   width="65mm"
+   height="88mm"
+   viewBox="0 0 230.31484 311.81082"
+   id="svg5462"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="motion_detection.svg"
+   inkscape:export-filename="motion_detection.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <svg:defs
+     id="defs5464" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="26.071429"
+     inkscape:cy="148.57143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1" />
+  <svg:metadata
+     id="metadata5467">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-740.55109)">
+    <svg:path
+       style="opacity:1;fill:#000000;fill-opacity:0.94509804;fill-rule:nonzero;stroke:none;stroke-width:1.58158517;stroke-miterlimit:4;stroke-dasharray:1.58158517, 3.16317034;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.161866,1023.3052 c 15.27234,-32.47497 31.47708,-64.54011 46.53335,-97.09035 -4.65537,-12.39361 -9.50526,-24.74092 -14.74734,-36.89156 -7.07592,7.32324 -12.12142,16.88186 -20.79478,22.42978 -5.88172,3.47883 -13.06892,1.37669 -19.52182,2.27876 -3.17525,-1.01479 -11.1101,2.65093 -9.53275,-3.18681 0,-6.02831 0,-12.05663 0,-18.08495 6.59245,0 13.18494,0 19.77739,0 8.99809,-10.61294 16.72306,-22.40667 26.83108,-31.98325 9.67956,-7.2502 22.34702,-3.91561 33.525574,-4.89929 11.82045,0.091 23.70333,-0.36237 35.48017,0.69428 11.23837,3.22545 14.44181,15.42541 19.74248,24.39016 2.70788,7.50345 13.13139,16.62901 4.4809,23.92349 -11.13939,7.72195 -16.44779,-8.28985 -20.40441,-15.80675 -2.89843,-3.30131 -3.17896,-10.75786 -7.50987,-11.68183 -6.59204,0.218 -13.57365,-0.5404 -19.86627,0.49799 5.02128,13.14235 10.66578,26.06845 15.5721,39.24173 2.45542,17.28201 3.21234,34.76762 5.36892,52.08244 15.04515,0.34912 30.15878,-0.26296 45.14723,0.96258 9.5608,1.90997 12.00703,12.32301 15.0666,20.09665 -25.00743,0.21091 -50.07384,0.98748 -75.0401,-0.38009 -9.2857,-5.03959 -5.70124,-17.48282 -7.9568,-26.21318 -1.09182,-8.86345 -1.40199,-18.18243 -3.19454,-26.74712 -11.312564,21.73416 -21.434354,44.0785 -32.227314,66.09262 -4.37288,7.227 -6.11265,18.9208 -16.07106,20.4008 -6.92532,0.6087 -13.88694,0.4797 -20.83256,0.5177 -0.24237,-0.2473 0.18694,-0.4215 0.17382,-0.6438 z"
+       id="path4165"
+       inkscape:connector-curvature="0" />
+    <svg:path
+       style="opacity:1;fill:#000000;fill-opacity:0.94509804;fill-rule:nonzero;stroke:none;stroke-width:1.58158517;stroke-miterlimit:4;stroke-dasharray:1.58158517, 3.16317034;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 67.920446,854.0017 c -13.03024,-2.55261 -19.6659,-19.56219 -11.81214,-30.2175 5.81619,-8.99717 19.14026,-12.06512 27.74638,-5.16314 9.07753,6.36431 11.31365,20.64279 3.34257,28.72531 -4.41623,5.68714 -12.32652,7.84442 -19.27681,6.65533 z"
+       id="path4167"
+       inkscape:connector-curvature="0" />
+    <svg:path
+       id="path4391"
+       d="m 160.70434,823.7975 c 13.63728,10.56823 31.18793,16.07907 49.48974,14.08586 l -2.15178,-16.72257 c -27.42073,2.96771 -52.58798,-16.54338 -56.5449,-43.84687 l -16.79481,2.07007 c 2.64409,18.22238 12.36606,33.84494 26.00263,44.41343 z m 47.33871,-2.63558 0.0335,6.3e-4 z"
+       sodipodi:nodetypes="cccccccccc"
+       style="color:#000000;fill:#000000"
+       inkscape:connector-curvature="0" />
+    <svg:path
+       id="path4395"
+       d="m 145.14552,843.75403 c 18.80699,14.57447 43.01138,22.17528 68.25085,19.42721 l -2.13563,-16.59102 c -41.24399,4.40242 -79.07734,-24.96034 -85.03019,-66.03432 l -16.93844,1.94917 c 3.64324,25.13045 17.04809,46.67412 35.85399,61.24996 z m 66.11454,2.83673 0.16519,-0.0155 z"
+       sodipodi:nodetypes="sccccsccc"
+       style="color:#000000;fill:#000000"
+       inkscape:connector-curvature="0" />
+    <svg:path
+       id="path4381"
+       d="m 176.23601,803.95583 c 8.49034,6.5796 19.42316,10.01232 30.81867,8.7721 l -2.06055,-15.97951 c -14.02238,1.51649 -26.88785,-8.4642 -28.91095,-22.42635 l -16.03164,1.98556 c 1.64439,11.34521 7.69534,21.06949 16.18503,27.64853 z m 28.75765,-7.20751 0.0189,-0.002 z"
+       sodipodi:nodetypes="cccccccccc"
+       style="color:#000000;fill:#000000"
+       inkscape:connector-curvature="0" />
+    <svg:path
+       id="path4411"
+       sodipodi:rx="16.834204"
+       sodipodi:ry="16.834204"
+       style="color:#000000;fill:#000000"
+       sodipodi:type="arc"
+       d="m -645.51961,-471.6945 a 16.834204,16.834204 0 0 1 -0.0123,-23.79485 16.834204,16.834204 0 0 1 23.79482,-0.0369 16.834204,16.834204 0 0 1 0.0615,23.79477 16.834204,16.834204 0 0 1 -23.79469,0.0861 l 11.85424,-11.95271 z"
+       sodipodi:cy="-483.59808"
+       sodipodi:cx="-633.61603"
+       sodipodi:end="2.3520582"
+       sodipodi:start="2.3561945"
+       transform="matrix(-0.78812057,-0.61552089,0.61552089,-0.78812057,0,0)" />
+  </svg:g>
+  <div
+     id="divScriptsUsed"
+     style="display: none" />
+  <script
+     id="globalVarsDetection"
+     src="moz-extension://42fb4f7b-3a14-435f-8686-ff09730859f7/js/wrs_env.js" />
+</svg:svg>
